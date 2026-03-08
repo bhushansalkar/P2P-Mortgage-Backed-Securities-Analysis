@@ -81,26 +81,12 @@ The Power BI dashboard includes the following insights:
 
 ---
 
-## Project Structureloan-portfolio-risk-analysis
-│
-├── dashboard
-│ └── loan_portfolio_analysis.pbix
-│
-├── images
-│ └── dashboard_preview.png
-│
-└── README.md
-
 
 ---
 
 ## How to Use
 
 1. Clone the repository
-
-
-git clone https://github.com/yourusername/loan-portfolio-risk-analysis.git
-
 
 2. Open the **Power BI (.pbix) file** using Microsoft Power BI Desktop.
 
@@ -133,5 +119,5 @@ LinkedIn:https://www.linkedin.com/in/bhushan-salkar2799/
 
 This project is for **portfolio purposes**.
 
-#
+# Contact
 
