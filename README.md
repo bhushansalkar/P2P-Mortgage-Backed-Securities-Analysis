@@ -103,7 +103,14 @@ The Power BI dashboard includes the following insights:
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 
----
+## Project Summary
+
+This project analyzes mortgage loan data to evaluate loan portfolio performance and identify financial risk indicators that may impact investor returns. The analysis focuses on key factors such as borrower credit characteristics, loan prepayment risk, and interest rate structures.
+
+Using data preprocessing, feature engineering, and exploratory data analysis techniques, the project transforms raw financial data into meaningful insights. An interactive Power BI dashboard was developed to visualize loan performance metrics, monitor portfolio trends, and highlight potential risk areas.
+
+The results of this analysis provide valuable insights that can support lenders, investors, and financial analysts in making more informed lending decisions and improving risk management strategies.
+
 
 ## Author
 
@@ -120,4 +127,7 @@ LinkedIn:https://www.linkedin.com/in/bhushan-salkar2799/
 This project is for **portfolio purposes**.
 
 # Contact
+For any questions or suggestions, please contact bhushansalkar99@gmail.com
+
+
 
